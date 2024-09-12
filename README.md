@@ -19,7 +19,7 @@
 
 - 💬 Ask me about **IOT**
 
-- 📫 How to reach me **31dixithadithya@gmail.com**
+- 📫 How to reach me **https://rb.gy/03l66m**
 
 - 📄 Know about my experiences [Will be displayed in my Portfolio website](Will be displayed in my Portfolio website)
 
