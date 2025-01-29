@@ -5,23 +5,21 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=dixith-ai" alt="dixith-ai" /></a> </p>
 
-- 🔭 I’m currently working on **MY PORTFOLIO WEBSITE**
+- 🔭 I’m currently working on **my start-up**
 
-- 🌱 I’m currently learning **Python, C/C++, Java, Web Dev**
+- 🌱 I’m currently learning **AI & ML**
 
-- 👯 I’m looking to collaborate on **IOT projects**
+- 👯 I’m looking to collaborate with **people who are hungry to build something big** (preffereably in the drone industry. 
 
-- 🤝 I’m looking for help with **Any doubts regarding IOT Projects**
+- 🤝 I’m looking for help with **front-end dev or IOT**
 
-- 👨‍💻 All of my projects are available at [available soon](available soon)
+- 👨‍💻 All of my projects are available at   https://github.com/dixith-ai
 
 - 📝 I regularly write articles on [available soon](available soon)
 
-- 💬 Ask me about **IOT**
-
 - 📫 How to reach me **https://rb.gy/03l66m**
 
-- 📄 Know about my experiences [Will be displayed in my Portfolio website](Will be displayed in my Portfolio website)
+- 📄 Know about my experiences (https://rb.gy/u31az3)
 
 - ⚡ Fun fact **I Think I'll be able to put up a conversation on any main stream topic.**
 
